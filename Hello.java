@@ -12,4 +12,6 @@ public class Hello{
 	}
 	public void method4(){
 	}
+
+	//添加分支
 }
